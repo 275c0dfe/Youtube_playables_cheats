@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         YouTube Playables Script Engine (Dev Mode)
+// @name         YouTube Playables Script Engine
 // @namespace    http://tampermonkey.net/
 // @version      2025-04-07
 // @description  Script loader for youtube playables with some startup scripts
