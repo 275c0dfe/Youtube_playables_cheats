@@ -64,3 +64,14 @@ See [docs/script_guide.md](docs/script_guide.md) for writing game-specific scrip
 - Not all games store their data client-side.
 
 ---
+
+## Included Game Scripts
+
+- Default((Works on Crossy Road))
+- Hill Climb Racing Lite (300k coins)
+- My Mini Mart ($30k cash)
+- Jetpack Joyride (30k coins)
+- Fruit Ninja (300k star fruit)
+- Stealth Master (+$30k cash)
+
+---
