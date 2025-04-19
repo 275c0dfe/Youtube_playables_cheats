@@ -53,7 +53,7 @@ Each script must define:
 
 Use `updateValues({ key: value })` inside your script to patch the data. Reloads are handled automatically.
 
-See [docs/script_guide.md](docs/script_guide.md) for writing game-specific scripts.
+See [docs.md](docs.md) for writing game-specific scripts.
 
 ---
 
